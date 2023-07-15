@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuCh50-Coder🛸
+- 👋 Hi, I’m @Susnata🛸
 - 🌃🌠 I’m interested in Astrophysics
 - 🌱 I’m currently learning Python and SQL
 - ☄ I’m looking to collaborate on python
